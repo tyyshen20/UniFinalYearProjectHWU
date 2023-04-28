@@ -1,7 +1,10 @@
 # UniFinalYearProjectHWU
 This repository contains my code and report for my Final Year Project in Heriot-Watt University. 
-Timeline: 2021/2022
 
-It contains 2 branches
-1-patch -- 1st Semester Report & Code
-2-patch -- 2nd Semester Report & Code
+Title: Customer Behaviour Analytics based on Machine Learning Classification Techniques
+Language: R
+Timeline: Sept 2021 - April 2022
+
+
+Report 1 + Code 1 = Semester 1 
+Report 2 + Code 2 = Semester 2
